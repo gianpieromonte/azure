@@ -48,6 +48,6 @@ jobs:
     displayName: 'pytest'
 
 
-
+  - script: python hello.py
     
 
