@@ -47,7 +47,5 @@ jobs:
       pytest
     displayName: 'pytest'
 
-
-  - script: python hello.py
     
 
